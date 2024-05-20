@@ -158,8 +158,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   margin-left: auto;
-}
-
+}  
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 5px 20px;
   color: #ffffff;
@@ -879,7 +878,11 @@ a:focus {
 .info_section .info_links a:hover {
   color: #00bbf0;
 }
-.info_section p{
+.info_section p.god{
+  color: #ffffff;
+  text-align: left;
+}
+.info_section p.teacher{
   text-align: center;
 }
 .info_section h1{
